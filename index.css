@@ -1,0 +1,21 @@
+#title{
+    font-family: 'Lobster', cursive;
+    margin: 0;
+    padding: 30px;
+    padding-bottom: 30px;
+    width: 100vw;
+    background-color: rgb(163, 209, 228);
+}
+body,html{
+    font-family: 'Lobster', cursive;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    margin: 0;
+    padding: 0;
+}
+.carousel-item{
+    padding: 10%;
+    background-color: lightcoral;
+}
