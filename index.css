@@ -19,3 +19,15 @@ h1{
     padding: 10%;
     background-color: rgb(72, 127, 189);
 }
+#abstract{
+    padding: 30px;
+    padding-bottom: 30px;
+}
+#stages{
+    padding: 30px;
+    padding-bottom: 30px;
+}
+#end{
+    padding: 30px;
+    padding-bottom: 30px;
+}
