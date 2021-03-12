@@ -16,6 +16,7 @@ h1{
     padding: 0;
 }
 .carousel-item{
+    /* width: 80vw; */
     padding: 10%;
     background-color: lightcoral;
 }
